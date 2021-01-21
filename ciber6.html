@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Funció reemplaça</title>
+</head>
+
+<body>
+
+    <script>
+        // Declaro una variable donde iremos cambiando el carácter
+        let string = "Tinc un cotxe de color blau";
+        console.log(string);
+
+        // Llamo a la función "replace" para hacer el intercambio entre "blau" y "verd"
+        console.log(string.replace("blau", "verd"));
+
+        // Llamo a la función "replace global" para intercambiar todas las "o" por las "u"
+
+        var res = string.replace(/o/g, "u");
+        console.log(res);
+
+
+    </script>
+
+</body>
+
+</html>
