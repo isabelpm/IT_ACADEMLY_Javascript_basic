@@ -26,8 +26,5 @@ Donat el seguit llistat d'objectes 'taula', 'cadira', 'ordinador', 'libreta', pe
 Crea una funció anomenada calculadora que tingui com a entrada els següents paràmetres: operador, valor1 i valor2. 
 Estructura de la funció que faci sumes, restes i multiplicacions. El resultat haurà de ser mostrar per pantalla.
 
-# Nivel 2
-Calculadora
-
-# Nivell 3
+# Exercici 8 - Nivell 3
 Calculadora + interficie gràfica.
