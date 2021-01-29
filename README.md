@@ -1,5 +1,10 @@
-# IT_ACADEMY_Javascript_basic
-Javascript basic. Nivell 1, 2 i 3.
+# Javascript basic
+
+Javascript basic.
+
+## Comencem 🚀
+
+_La pràctica es divideix en **3 nivells**._
 
 # Exercici 1
 _L'exercici consisteix a crear un fitxer anomenat ciber.html i mostrar per consola un 'Hola mundo' (per activar la consola ->; F12). Pista: Console.log()_
@@ -30,7 +35,7 @@ Estructura de la funció que faci sumes, restes i multiplicacions. El resultat h
 _Calculadora + interficie gràfica._
 
 ## Previsualización - [Web](https://cnh95.csb.app/) 💻
-![Captura de pantalla 2021-01-29 a las 13 31 55](https://user-images.githubusercontent.com/67895734/106275782-b33ff000-6236-11eb-970d-5f060c38c1f4.png)
+![Captura de pantalla 2021-01-29 a las 13 35 57](https://user-images.githubusercontent.com/67895734/106276074-42e59e80-6237-11eb-8491-d3ffda8e3e50.png)
 
 ## Previsualización [Código](https://codesandbox.io/s/sprint3calculadora-cnh95) ⌨️
 
