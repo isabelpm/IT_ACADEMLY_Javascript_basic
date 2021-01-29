@@ -28,3 +28,10 @@ Estructura de la funció que faci sumes, restes i multiplicacions. El resultat h
 
 # Exercici 9
 Calculadora + interficie gràfica.
+
+## Previsualización - [Web](https://cnh95.csb.app/) 💻
+
+
+
+
+## Previsualización [Código](https://codesandbox.io/s/sprint3calculadora-cnh95) ⌨️
