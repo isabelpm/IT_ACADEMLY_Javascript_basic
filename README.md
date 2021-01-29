@@ -30,8 +30,7 @@ Estructura de la funció que faci sumes, restes i multiplicacions. El resultat h
 Calculadora + interficie gràfica.
 
 ## Previsualización - [Web](https://cnh95.csb.app/) 💻
-
-
+![Captura de pantalla 2021-01-29 a las 13 31 55](https://user-images.githubusercontent.com/67895734/106275782-b33ff000-6236-11eb-970d-5f060c38c1f4.png)
 
 
 ## Previsualización [Código](https://codesandbox.io/s/sprint3calculadora-cnh95) ⌨️
