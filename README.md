@@ -34,10 +34,10 @@ Estructura de la funció que faci sumes, restes i multiplicacions. El resultat h
 # Exercici 9
 _Calculadora + interficie gràfica._
 
-## Previsualización - [Web](https://lh1d2.csb.app/) 💻
+## Previsualización - [Web](https://syszr.csb.app/) 💻
 ![Captura de pantalla 2021-01-29 a las 13 35 57](https://user-images.githubusercontent.com/67895734/106276074-42e59e80-6237-11eb-8491-d3ffda8e3e50.png)
 
-## Previsualización [Código](https://codesandbox.io/s/it-academy-sp3-calculadora-lh1d2) ⌨️
+## Previsualización [Código](https://codesandbox.io/s/it-academy-sp3-calculadora-syszr) ⌨️
 
 ## Autores ✒️
 
